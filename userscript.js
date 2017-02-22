@@ -8,8 +8,8 @@
 // @icon64       https://bytebucket.org/echo__off/hipchat4k/raw/65e6aba901bb94f0107c3d6f8ba82df8906c4c83/hd-64.png
 // @include      https://sinaxti.hipchat.com/chat/*
 // @match        https://sinaxti.hipchat.com/chat/*
-// @updateURL    https://bitbucket.org/echo__off/hipchat4k/raw
-// @downloadURL  https://bitbucket.org/echo__off/hipchat4k/raw
+// @updateURL    https://bitbucket.org/echo__off/hipchat4k/raw/42c016b8ef9c714e8fec15eabf813ed4408be088/userscript.js
+// @downloadURL  https://bitbucket.org/echo__off/hipchat4k/raw/42c016b8ef9c714e8fec15eabf813ed4408be088/userscript.js
 // @grant        none
 // @license      MIT
 // ==/UserScript==
