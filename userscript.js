@@ -35,7 +35,6 @@
             el.classList.add('changed');
             el.removeAttribute('height');
             el.removeAttribute('width');
-            console.log(el);
         });
 
         smileys.forEach(function(el, idx) {
